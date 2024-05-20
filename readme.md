@@ -37,7 +37,7 @@ This project is a template for a multiplayer third person shooter game made with
 - **Grenade**
 - **Ammo for each weapon type**
 
-![Weapons](https://i.ibb.co/ZGGSGmB/SG-Weapons.jpg)
+![Weapons](https://i.imgur.com/B48Ebgd.jpg)
 
 ### Attributes
 
