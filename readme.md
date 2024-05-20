@@ -2,6 +2,20 @@
 
 This project is a template for a multiplayer third person shooter game made with Unreal Engine 5.1.
 
+![TPS](https://i.ibb.co/chqPL0d/SG-Git-Cover.jpg)
+
+## Controls
+
+| Key     | Action                  |
+|---------|-------------------------|
+| **WASD**| *Move*              |
+| **L-CTRL** | *Crouch*              |
+| **L-SHIFT**| *Sprint*                 |
+| **SPACE** | *Jump/Climb/Mantle*    |
+| **LMB**   | *Shoot*                |
+| **RMB**   | *Aim down sights*      |
+| **E**     | *Interact*             |
+
 ## Mechanics
 
 ### Movement
@@ -13,7 +27,7 @@ This project is a template for a multiplayer third person shooter game made with
 - **Climbing**
 - **Ladders**
 
-[Images of each movement mechanic]
+![Movement](https://i.ibb.co/VVv3V28/SG-Movement.jpg)
 
 ### Weapons
 
@@ -23,7 +37,7 @@ This project is a template for a multiplayer third person shooter game made with
 - **Grenade**
 - **Ammo for each weapon type**
 
-[Images of each weapon type]
+![Weapons](https://i.ibb.co/ZGGSGmB/SG-Weapons.jpg)
 
 ### Attributes
 
@@ -41,7 +55,7 @@ This project is a template for a multiplayer third person shooter game made with
 - **Time remaining in match**
 - **Leaderboard**
 
-[Image of UI]
+![UI](https://i.ibb.co/cLjysRn/SG-UI.jpg)
 
 ### Interactive Objects
 
@@ -50,14 +64,4 @@ This project is a template for a multiplayer third person shooter game made with
 - **Ladders**
 - **Elevator platform with button**
 
-[Images of each interactive object]
-
-### Controls
-
-- **WASD** - Movement
-- **L-CTRL** - Crouch
-- **L-SHIFT** - Run
-- **SPACE** - Jump/Climb/Mantle
-- **LMB** - Shoot
-- **RMB** - Aim down sights
-- **E** - Interact
+![Interactive](https://i.ibb.co/8xyJRn3/SG-interact.jpg)
