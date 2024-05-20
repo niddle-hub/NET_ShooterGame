@@ -2,7 +2,7 @@
 
 This project is a template for a multiplayer third person shooter game made with Unreal Engine 5.1.
 
-![TPS](https://i.ibb.co/chqPL0d/SG-Git-Cover.jpg)
+[![YouTube Video!](https://i.ibb.co/chqPL0d/SG-Git-Cover.jpg)](https://www.youtube.com/watch?v=J6GD1H90EJk)
 
 ## Controls
 
